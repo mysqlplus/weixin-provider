@@ -1,7 +1,7 @@
 {
     "debug": true,
     "http": {
-        "listen": "0.0.0.0:5000",
+        "listen": "0.0.0.0:9000",
         "token": ""
     },
 	"weixin":{
