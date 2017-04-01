@@ -1,0 +1,14 @@
+{
+    "debug": true,
+    "http": {
+        "listen": "0.0.0.0:5000",
+        "token": ""
+    },
+	"weixin":{
+		"tokenurl": "https://qyapi.weixin.qq.com/cgi-bin/gettoken",
+		"sendurl": "https://qyapi.weixin.qq.com/cgi-bin/message/send",
+		"agentid": 0,
+		"corpid": "wx30d7b08c4827b14f",
+		"corpsecret": "Jrq1n3yNrMXRbR1Xq3yLA64oAcbEZlth6GBVoK_T_8vr_XbY8OOOrSpOn79xOo5y"
+	}
+}
